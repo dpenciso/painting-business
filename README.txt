@@ -1,4 +1,4 @@
-# The Painting Business Inc.
+The Painting Business Inc.
 
 Overflow by HTML5 UP
 html5up.net | @ajlkn
